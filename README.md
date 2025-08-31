@@ -48,7 +48,7 @@ The VM implementation includes:
 - **`cgc_object.h/c`**: Object model definition and operations
 - **`stack.h/c`**: Generic stack implementation for the VM
 - **`vm.h/c`**: Virtual machine and garbage collection implementation
-- **`cgc_new.c`**: Object construction and initialization
+- **`cgc_new.hc`**: Object construction and initialization
 
 ## Building and Running
 ```bash
